@@ -1,0 +1,17 @@
+{
+  "applications": {
+    "IGotSwag": {
+      "applicationId": "AilI5QfhEq6nfDFgaHIY2ACv0y2iLoCo5fP0tVyp",
+      "masterKey": "g1aIUVv8tXws6FU6dUm9XEDN5vGHLPWro8kSkPSG"
+    },
+    "_default": {
+      "link": "IGotSwag"
+    }
+  },
+  "global": {
+    "parseVersion": "1.3.1"
+  },
+  "dependencies": {
+    "battlenet-api": "^0.4.7"
+  }
+}

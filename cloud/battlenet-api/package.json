@@ -1,0 +1,58 @@
+{
+  "author": {
+    "name": "Ben Weier",
+    "email": "ben.weier@gmail.com",
+    "url": "https://github.com/benweier"
+  },
+  "name": "battlenet-api",
+  "description": "A wrapper for the Battle.net API",
+  "version": "0.4.7",
+  "homepage": "https://github.com/benweier/battlenet-api",
+  "license": "MIT",
+  "keywords": [
+    "battlenet",
+    "battle.net",
+    "api",
+    "world of warcraft",
+    "starcraft 2",
+    "diablo 3",
+    "wow",
+    "sc2",
+    "d3"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benweier/battlenet-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benweier/battlenet-api/issues"
+  },
+  "main": "./lib/battlenet-api.js",
+  "dependencies": {
+    "request": "~2.40.0",
+    "deep-extend": "~0.2.11"
+  },
+  "gitHead": "a2a1d0f164dcf5ded0c194a0d45cfd8f686cb73b",
+  "_id": "battlenet-api@0.4.7",
+  "scripts": {},
+  "_shasum": "5a8cb2d5e3648c1330bea3f8f25f8bcecc254f7d",
+  "_from": "battlenet-api@",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "benweier",
+    "email": "ben.weier@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "benweier",
+      "email": "ben.weier@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5a8cb2d5e3648c1330bea3f8f25f8bcecc254f7d",
+    "tarball": "http://registry.npmjs.org/battlenet-api/-/battlenet-api-0.4.7.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/battlenet-api/-/battlenet-api-0.4.7.tgz",
+  "readme": "ERROR: No README data found!"
+}

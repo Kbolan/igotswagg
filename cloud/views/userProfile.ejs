@@ -1,0 +1,18 @@
+<% include _header %>
+
+<div class="container">
+
+      <h1><%= Parse.User.current().get('username') %>'s Profile</h1>
+        <dl class="dl-horizontal">
+          <dt>First Name: </dt>
+          <dd><%= Parse.User.current().get('firstName') %></dd>
+
+          <dt>Last Name: </dt>
+          <dd><%= Parse.User.current().get('lastName') %></dd>
+
+          <dt>Email: </dt>
+          <dd><%= Parse.User.current().get('email') %></dd>
+        </dl>
+
+      </div><!--/row-->
+<% include _footer %>
